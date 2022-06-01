@@ -1,0 +1,35 @@
+h2{
+    text-align: center;
+    color: #DA7B93;
+    font-weight: 600;
+    font-size: 50px;
+    font-variant: small-caps;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 80px;
+}
+.name{
+    text-align: center;
+    color: #DA7B93;
+    font-weight: 600;
+    font-size: 50px;
+    font-variant: small-caps;
+}
+
+list{
+    padding: 8px;
+    margin: 16px;
+
+}
+
+.heading{
+    color: #DA7B93;
+    font-weight: 600;
+    font-size: 20px;
+    font-variant: small-caps;
+}

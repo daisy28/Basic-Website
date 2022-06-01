@@ -1,0 +1,22 @@
+.text{
+    margin: 50px;
+}
+
+
+table{
+    margin: auto;
+    padding: 30px;
+    border: 3px solid #dfd3c9;
+    border-radius: 15px;
+    margin-bottom: 100px;
+}
+
+.send{
+    display: block;
+    border: 1px solid #dfd3c9;
+    border-radius: 15px;
+    background-color: #022122;
+    padding: 10px 30px;
+    color: #dfd3c9;
+    margin-top: 20px;
+}
